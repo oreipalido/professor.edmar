@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @edmarweb
+- 👋 Hi, I’m @oreipalido
 - 👀 I’m interested in WordPress, Moodle and Joomla! Code Plugins
-- 🌱 I’m currently learning PHP for WordPress
+- 🌱 I’m currently learning PHP and Python for WordPress
 - 💞️ I’m looking to collaborate on Develop Websites
 - 📫 How to reach me ...
 
